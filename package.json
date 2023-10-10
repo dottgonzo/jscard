@@ -1,6 +1,6 @@
 {
   "name": "jscard",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "typescript vcard",
   "main": "types.ts",
   "scripts": {
