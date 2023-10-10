@@ -1,6 +1,6 @@
 {
   "name": "ts-jsoncard",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "typescript vcard",
   "main": "types.ts",
   "scripts": {
