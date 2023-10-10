@@ -1,0 +1,31 @@
+{
+  "name": "jscard",
+  "version": "0.0.0",
+  "description": "typescript vcard",
+  "main": "types.ts",
+  "scripts": {
+    "release:patch": "npm version patch && git push && git push --tags",
+    "release:minor": "npm version minor && git push && git push --tags",
+    "release:major": "npm version major && git push && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dottgonzo/jscard.git"
+  },
+  "keywords": [
+    "vcard",
+    "json",
+    "typescript",
+    "types"
+  ],
+  "author": "Dario Caruso",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dottgonzo/jscard/issues"
+  },
+  "homepage": "https://github.com/dottgonzo/jscard#readme",
+  "devDependencies": {
+    "prettier": "^3.0.3",
+    "prettier-plugin-organize-imports": "^3.2.3"
+  }
+}
