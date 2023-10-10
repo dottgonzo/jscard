@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/dottgonzo/jscard.git"
+    "url": "git+ssh://git@github.com/dottgonzo/ts-jsoncard.git"
   },
   "keywords": [
     "vcard",
@@ -21,9 +21,9 @@
   "author": "Dario Caruso",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/dottgonzo/jscard/issues"
+    "url": "https://github.com/dottgonzo/ts-jsoncard/issues"
   },
-  "homepage": "https://github.com/dottgonzo/jscard#readme",
+  "homepage": "https://github.com/dottgonzo/ts-jsoncard#readme",
   "devDependencies": {
     "prettier": "^3.0.3",
     "prettier-plugin-organize-imports": "^3.2.3"
