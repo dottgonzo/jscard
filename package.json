@@ -1,5 +1,5 @@
 {
-  "name": "jscard",
+  "name": "ts-jsoncard",
   "version": "0.0.2",
   "description": "typescript vcard",
   "main": "types.ts",
